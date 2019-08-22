@@ -20,3 +20,5 @@ represents the marks of the ith student.
 Since you are a curious kid, you want to find all the marks that are not smaller than those
 on its right side in the array.
 
+
+
